@@ -1,5 +1,6 @@
 # oil_n_gas
 some analysis for oil and gas data
+
 The data of the Norwegian oil company on completed fields were used.
 
 An exploratory analysis was performed.
